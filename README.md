@@ -1,6 +1,5 @@
 # flutter_download_file
 
-A new Flutter project.
 ![Screenshot_2](https://user-images.githubusercontent.com/71831037/170079723-08c0d066-1c58-4e8e-ad03-538d7520c7a0.png)
 
 ## Getting Started
